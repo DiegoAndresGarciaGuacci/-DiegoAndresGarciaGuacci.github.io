@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-image: url(pearls.jpg);
+    background-size: cover;
+}
+
+h1.important{
+    font-size: x-large;
+    background: rgb(75, 31, 31);
+    text-decoration:dashed;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+    background: grey;
+    border: 2px solid red;
+}
+
+.imagenes img{
+    box-shadow: 10px 5px 5px rgb(189, 156, 156);
+    width: 280px;
+     height: 350px;
+}
+
+#precios em{
+    background: red;
+    outline-style: dotted;
+}
+
+#cms em{
+    outline-style:dashed;
+    background: greenyellow;
+}
+
+.pagos p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aquamarine;
+    text-decoration: underline;
+    border: 2px dotted black;
+}
